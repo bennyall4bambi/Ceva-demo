@@ -1,5 +1,0 @@
-Z:\workspace\Demo\Demo\Counter\bin\Release\CounterLib.dll
-Z:\workspace\Demo\Demo\Counter\obj\Release\CounterLib.csprojResolveAssemblyReference.cache
-Z:\workspace\Demo\Demo\Counter\obj\Release\CounterLib.Counter.resources
-Z:\workspace\Demo\Demo\Counter\obj\Release\CounterLib.csproj.GenerateResource.Cache
-Z:\workspace\Demo\Demo\Counter\obj\Release\CounterLib.dll
