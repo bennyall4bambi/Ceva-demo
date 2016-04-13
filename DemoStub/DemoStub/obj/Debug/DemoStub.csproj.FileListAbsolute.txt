@@ -1,0 +1,13 @@
+Z:\workspace\DemoStub\DemoStub\bin\Debug\DemoStub.exe.config
+Z:\workspace\DemoStub\DemoStub\bin\Debug\DemoStub.exe
+Z:\workspace\DemoStub\DemoStub\bin\Debug\DemoStub.pdb
+Z:\workspace\DemoStub\DemoStub\obj\Debug\UI\MainWindow.baml
+Z:\workspace\DemoStub\DemoStub\obj\Debug\UI\MainWindow.g.cs
+Z:\workspace\DemoStub\DemoStub\obj\Debug\App.g.cs
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub_MarkupCompile.cache
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.g.resources
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.Properties.Resources.resources
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.csproj.GenerateResource.Cache
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.exe
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.pdb
+Z:\workspace\DemoStub\DemoStub\obj\Debug\DemoStub.csprojResolveAssemblyReference.cache

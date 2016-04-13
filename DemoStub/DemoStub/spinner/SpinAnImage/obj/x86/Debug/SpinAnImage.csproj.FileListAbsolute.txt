@@ -1,0 +1,12 @@
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\bin\Debug\SpinAnImage.exe
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\bin\Debug\SpinAnImage.pdb
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.csprojResolveAssemblyReference.cache
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\MainWindow.baml
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\MainWindow.g.cs
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\App.g.cs
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage_MarkupCompile.cache
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.g.resources
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.Properties.Resources.resources
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.csproj.GenerateResource.Cache
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.exe
+Z:\workspace\DemoStub\DemoStub\spinner\SpinAnImage\obj\x86\Debug\SpinAnImage.pdb

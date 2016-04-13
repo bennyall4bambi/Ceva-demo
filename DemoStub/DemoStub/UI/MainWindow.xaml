@@ -1,0 +1,28 @@
+﻿<Window x:Class="DemoStub.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Demo Stub Application" Height="402.985" Width="816.417" ResizeMode="CanMinimize">
+    <Grid Margin="0,0,-2,1" RenderTransformOrigin="0.5,0.5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="321*"/>
+        </Grid.RowDefinitions>
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform Angle="-0.14"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="407*"/>
+            <ColumnDefinition Width="405*"/>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="btnRed" Margin="10,31.92,191,87" Source="/UI/red_button.png" Stretch="Fill"  Visibility="Visible" Grid.Row="1"/>
+        <Image x:Name="btnGreen" Margin="10,31.92,191,87" Source="/UI/green_button.png" Stretch="Fill"  Visibility="Collapsed" Grid.Row="1"/>
+        <ComboBox x:Name="comboPorts" Grid.Column="1" HorizontalAlignment="Left" Margin="37,117.92,0,0" VerticalAlignment="Top" Width="92" Height="25" Grid.Row="1"/>
+        <Button x:Name="btnConnection"  Grid.Column="1" HorizontalAlignment="Left" Margin="264,117.92,0,0" VerticalAlignment="Top" Width="92" RenderTransformOrigin="0.059,0.533" Height="25" Click="Button_Click" Content="connect" Grid.Row="1"/>
+        <Label x:Name="tmp_counter" Grid.Column="1" HorizontalAlignment="Left" Height="41" Margin="90,13.92,0,0" VerticalAlignment="Top" Width="251" Grid.Row="1"/>
+    </Grid>
+</Window>

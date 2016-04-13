@@ -1,0 +1,11 @@
+Z:\workspace\Demo\DemoWF\bin\Debug\DemoWF.exe.config
+Z:\workspace\Demo\DemoWF\bin\Debug\DemoWF.exe
+Z:\workspace\Demo\DemoWF\bin\Debug\DemoWF.pdb
+Z:\workspace\Demo\DemoWF\bin\Debug\CounterLib.dll
+Z:\workspace\Demo\DemoWF\bin\Debug\CounterLib.pdb
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.csprojResolveAssemblyReference.cache
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.Form1.resources
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.Properties.Resources.resources
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.csproj.GenerateResource.Cache
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.exe
+Z:\workspace\Demo\DemoWF\obj\Debug\DemoWF.pdb
